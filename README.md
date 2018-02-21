@@ -8,8 +8,8 @@ This is the souce code for Audio Set classification
 The hdf5 data can be downloaded here
 https://drive.google.com/open?id=0B49XSFgf-0yVQk01eG92RHg4WTA
 
-## Install Keras 2.0.8
-pip install keras==v2.08
+## Install requirements
+pip install -r requirements.txt
 
 ## Run
 ./runme.sh
