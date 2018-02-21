@@ -1,4 +1,4 @@
-# Audio Set classification with attention model: A probabilistic perspective
+# Multi-level Attention Model for Weakly Supervised Audio Classification
 
 Author: Changsong Yu (changsong_yu@yahoo.de) Qiuqiang Kong (q.kong@surrey.ac.uk) contribute equally to this work, Karim Said Barsim (karim.barsim@iss.uni-stuttgart.de) and Bin Yang (bin.yang@iss.uni-stuttgart.de)
 
