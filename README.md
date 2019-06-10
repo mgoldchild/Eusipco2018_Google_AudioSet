@@ -9,7 +9,7 @@ The hdf5 data can be downloaded here
 https://drive.google.com/open?id=0B49XSFgf-0yVQk01eG92RHg4WTA
 
 ## Install requirements
-pip install -r requirements.txt
+pip install -r requirement.txt
 
 ## Run
 ./runme.sh
